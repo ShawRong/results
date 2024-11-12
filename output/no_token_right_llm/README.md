@@ -1,0 +1,1 @@
+put sample_size to be 3
